@@ -1,0 +1,78 @@
+body{
+	text-align: left;
+	background-color: #D3D3D3; 
+}
+
+.email{
+	
+   font-size: 20px;
+}
+
+.david{
+	  -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+      -moz-box-shadow: 5px 5px 5px 5px rgba(0, 0, 50, 0.97);
+      box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+      position: absolute;
+      top: 60px;
+      right: 30px;
+
+      transform: rotate(268deg);
+      width: 300px;
+}
+
+p{
+	font-style: "Bree serif";
+	font-size: 20px;
+}
+
+ul{
+	font-size: 18px;
+
+}
+
+a{
+	font-size: 15px;
+
+}
+
+.info{
+    border-left:solid;
+    padding-left: 40px;
+    overflow: hidden;
+    float right;
+    border-radius: 20px;
+}
+.box{
+	 padding-left: 150px;
+
+}
+
+#Education{
+    background-color: #A9A9A9;
+    border-right: 25px;
+}
+
+#CommunityService{
+	 background-color: #A9A9A9;
+}
+
+#WorkExperience{
+	 background-color: #A9A9A9;
+}
+
+#titlebox{
+    font-style: "cursive";
+    float: left;
+    padding-right: 20px;
+    width: 100px;
+}
+
+.box{
+    margin-bottom: 15px;
+    margin-top: 65px;
+    padding-left: 80px;
+}
+
+
+
+	
